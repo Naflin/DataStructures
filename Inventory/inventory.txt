@@ -1,0 +1,5 @@
+12;Snow Mobile 1400 w/hatch;350;35000
+9345;Miter Box 2.0;1000000;23.95
+12345;Eastwing Hammer;50;29.99
+45678;10d Galvanized Nails;80000;0.1
+123765;Dewalt Circular Saw;15;199.95
